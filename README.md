@@ -28,7 +28,7 @@ A comprehensive collection of Bootstrap 5 utility classes and component snippets
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/bootstrap-5-zed-snippets.git
+   git clone https://github.com/ahmetcadirci25/bootstrap-5-zed-snippets.git
    ```
 
 2. In Zed, open the command palette (`Cmd+Shift+P` / `Ctrl+Shift+P`)
@@ -110,7 +110,3 @@ MIT License - See [LICENSE](LICENSE) file for details
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## Acknowledgments
-
-This extension was inspired by the [Bootstrap 4 Sublime Autocomplete](https://github.com/yourusername/bootstrap-4-sublime-autocomplete) plugin.
