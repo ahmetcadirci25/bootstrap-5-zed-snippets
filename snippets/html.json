@@ -1,0 +1,2737 @@
+{
+  "Alert - Danger": {
+    "prefix": "alert-danger",
+    "body": "alert alert-danger",
+    "description": "Bootstrap 5 alert danger class"
+  },
+  "Alert - Dark": {
+    "prefix": "alert-dark",
+    "body": "alert alert-dark",
+    "description": "Bootstrap 5 alert dark class"
+  },
+  "Alert - Dismissible": {
+    "prefix": "alert-dismissible",
+    "body": "alert alert-dismissible fade show",
+    "description": "Bootstrap 5 dismissible alert classes"
+  },
+  "Alert - Heading": {
+    "prefix": "alert-heading",
+    "body": "alert-heading",
+    "description": "Bootstrap 5 alert heading class"
+  },
+  "Alert - Info": {
+    "prefix": "alert-info",
+    "body": "alert alert-info",
+    "description": "Bootstrap 5 alert info class"
+  },
+  "Alert - Light": {
+    "prefix": "alert-light",
+    "body": "alert alert-light",
+    "description": "Bootstrap 5 alert light class"
+  },
+  "Alert - Link": {
+    "prefix": "alert-link",
+    "body": "alert-link",
+    "description": "Bootstrap 5 alert link class"
+  },
+  "Alert - Primary": {
+    "prefix": "alert-primary",
+    "body": "alert alert-primary",
+    "description": "Bootstrap 5 alert primary class"
+  },
+  "Alert - Secondary": {
+    "prefix": "alert-secondary",
+    "body": "alert alert-secondary",
+    "description": "Bootstrap 5 alert secondary class"
+  },
+  "Alert - Success": {
+    "prefix": "alert-success",
+    "body": "alert alert-success",
+    "description": "Bootstrap 5 alert success class"
+  },
+  "Alert - Warning": {
+    "prefix": "alert-warning",
+    "body": "alert alert-warning",
+    "description": "Bootstrap 5 alert warning class"
+  },
+  "Align Baseline": {
+    "prefix": "align-baseline",
+    "body": "align-baseline",
+    "description": "Bootstrap 5 align baseline"
+  },
+  "Align Bottom": {
+    "prefix": "align-bottom",
+    "body": "align-bottom",
+    "description": "Bootstrap 5 align bottom"
+  },
+  "Align Middle": {
+    "prefix": "align-middle",
+    "body": "align-middle",
+    "description": "Bootstrap 5 align middle"
+  },
+  "Align Top": {
+    "prefix": "align-top",
+    "body": "align-top",
+    "description": "Bootstrap 5 align top"
+  },
+  "Align Text Bottom": {
+    "prefix": "align-text-bottom",
+    "body": "align-text-bottom",
+    "description": "Bootstrap 5 align text bottom"
+  },
+  "Align Text Top": {
+    "prefix": "align-text-top",
+    "body": "align-text-top",
+    "description": "Bootstrap 5 align text top"
+  },
+  "Badge - Background Danger": {
+    "prefix": "badge-bg-danger",
+    "body": "badge bg-danger",
+    "description": "Bootstrap 5 badge danger background"
+  },
+  "Badge - Background Dark": {
+    "prefix": "badge-bg-dark",
+    "body": "badge bg-dark",
+    "description": "Bootstrap 5 badge dark background"
+  },
+  "Badge - Background Info": {
+    "prefix": "badge-bg-info",
+    "body": "badge bg-info",
+    "description": "Bootstrap 5 badge info background"
+  },
+  "Badge - Background Light": {
+    "prefix": "badge-bg-light",
+    "body": "badge bg-light",
+    "description": "Bootstrap 5 badge light background"
+  },
+  "Badge - Background Primary": {
+    "prefix": "badge-bg-primary",
+    "body": "badge bg-primary",
+    "description": "Bootstrap 5 badge primary background"
+  },
+  "Badge - Background Secondary": {
+    "prefix": "badge-bg-secondary",
+    "body": "badge bg-secondary",
+    "description": "Bootstrap 5 badge secondary background"
+  },
+  "Badge - Background Success": {
+    "prefix": "badge-bg-success",
+    "body": "badge bg-success",
+    "description": "Bootstrap 5 badge success background"
+  },
+  "Badge - Background Warning": {
+    "prefix": "badge-bg-warning",
+    "body": "badge bg-warning text-dark",
+    "description": "Bootstrap 5 badge warning background"
+  },
+  "Badge - Pill": {
+    "prefix": "badge-pill",
+    "body": "badge rounded-pill",
+    "description": "Bootstrap 5 badge pill (rounded)"
+  },
+  "Badge": {
+    "prefix": "badge",
+    "body": "badge",
+    "description": "Bootstrap 5 badge base class"
+  },
+  "Background Danger": {
+    "prefix": "bg-danger",
+    "body": "bg-danger",
+    "description": "Bootstrap 5 background danger"
+  },
+  "Background Dark": {
+    "prefix": "bg-dark",
+    "body": "bg-dark text-white",
+    "description": "Bootstrap 5 background dark"
+  },
+  "Background Info": {
+    "prefix": "bg-info",
+    "body": "bg-info text-dark",
+    "description": "Bootstrap 5 background info"
+  },
+  "Background Light": {
+    "prefix": "bg-light",
+    "body": "bg-light",
+    "description": "Bootstrap 5 background light"
+  },
+  "Background Primary": {
+    "prefix": "bg-primary",
+    "body": "bg-primary text-white",
+    "description": "Bootstrap 5 background primary"
+  },
+  "Background Secondary": {
+    "prefix": "bg-secondary",
+    "body": "bg-secondary text-white",
+    "description": "Bootstrap 5 background secondary"
+  },
+  "Background Success": {
+    "prefix": "bg-success",
+    "body": "bg-success text-white",
+    "description": "Bootstrap 5 background success"
+  },
+  "Background Transparent": {
+    "prefix": "bg-transparent",
+    "body": "bg-transparent",
+    "description": "Bootstrap 5 background transparent"
+  },
+  "Background Warning": {
+    "prefix": "bg-warning",
+    "body": "bg-warning text-dark",
+    "description": "Bootstrap 5 background warning"
+  },
+  "Background White": {
+    "prefix": "bg-white",
+    "body": "bg-white",
+    "description": "Bootstrap 5 background white"
+  },
+  "Border 0": {
+    "prefix": "border-0",
+    "body": "border-0",
+    "description": "Bootstrap 5 no border"
+  },
+  "Border Bottom 0": {
+    "prefix": "border-bottom-0",
+    "body": "border-bottom-0",
+    "description": "Bootstrap 5 no bottom border"
+  },
+  "Border Danger": {
+    "prefix": "border-danger",
+    "body": "border border-danger",
+    "description": "Bootstrap 5 danger border"
+  },
+  "Border Dark": {
+    "prefix": "border-dark",
+    "body": "border border-dark",
+    "description": "Bootstrap 5 dark border"
+  },
+  "Border End 0": {
+    "prefix": "border-end-0",
+    "body": "border-end-0",
+    "description": "Bootstrap 5 no right border"
+  },
+  "Border Info": {
+    "prefix": "border-info",
+    "body": "border border-info",
+    "description": "Bootstrap 5 info border"
+  },
+  "Border Light": {
+    "prefix": "border-light",
+    "body": "border border-light",
+    "description": "Bootstrap 5 light border"
+  },
+  "Border Primary": {
+    "prefix": "border-primary",
+    "body": "border border-primary",
+    "description": "Bootstrap 5 primary border"
+  },
+  "Border Secondary": {
+    "prefix": "border-secondary",
+    "body": "border border-secondary",
+    "description": "Bootstrap 5 secondary border"
+  },
+  "Border Start 0": {
+    "prefix": "border-start-0",
+    "body": "border-start-0",
+    "description": "Bootstrap 5 no left border"
+  },
+  "Border Success": {
+    "prefix": "border-success",
+    "body": "border border-success",
+    "description": "Bootstrap 5 success border"
+  },
+  "Border Top 0": {
+    "prefix": "border-top-0",
+    "body": "border-top-0",
+    "description": "Bootstrap 5 no top border"
+  },
+  "Border Warning": {
+    "prefix": "border-warning",
+    "body": "border border-warning",
+    "description": "Bootstrap 5 warning border"
+  },
+  "Border White": {
+    "prefix": "border-white",
+    "body": "border border-white",
+    "description": "Bootstrap 5 white border"
+  },
+  "Border": {
+    "prefix": "border",
+    "body": "border",
+    "description": "Bootstrap 5 border all sides"
+  },
+  "Bottom 0": {
+    "prefix": "bottom-0",
+    "body": "bottom-0",
+    "description": "Bootstrap 5 bottom 0"
+  },
+  "Bottom 50": {
+    "prefix": "bottom-50",
+    "body": "bottom-50",
+    "description": "Bootstrap 5 bottom 50%"
+  },
+  "Bottom 100": {
+    "prefix": "bottom-100",
+    "body": "bottom-100",
+    "description": "Bootstrap 5 bottom 100%"
+  },
+  "Breadcrumb": {
+    "prefix": "breadcrumb",
+    "body": "breadcrumb",
+    "description": "Bootstrap 5 breadcrumb"
+  },
+  "Button Block": {
+    "prefix": "btn-block",
+    "body": "btn d-grid w-100",
+    "description": "Bootstrap 5 button block (full width)"
+  },
+  "Button Danger": {
+    "prefix": "btn-danger",
+    "body": "btn btn-danger",
+    "description": "Bootstrap 5 danger button"
+  },
+  "Button Dark": {
+    "prefix": "btn-dark",
+    "body": "btn btn-dark",
+    "description": "Bootstrap 5 dark button"
+  },
+  "Button Group": {
+    "prefix": "btn-group",
+    "body": "btn-group",
+    "description": "Bootstrap 5 button group"
+  },
+  "Button Group Large": {
+    "prefix": "btn-group-lg",
+    "body": "btn-group btn-group-lg",
+    "description": "Bootstrap 5 large button group"
+  },
+  "Button Group Small": {
+    "prefix": "btn-group-sm",
+    "body": "btn-group btn-group-sm",
+    "description": "Bootstrap 5 small button group"
+  },
+  "Button Group Vertical": {
+    "prefix": "btn-group-vertical",
+    "body": "btn-group-vertical",
+    "description": "Bootstrap 5 vertical button group"
+  },
+  "Button Info": {
+    "prefix": "btn-info",
+    "body": "btn btn-info",
+    "description": "Bootstrap 5 info button"
+  },
+  "Button Large": {
+    "prefix": "btn-lg",
+    "body": "btn btn-lg",
+    "description": "Bootstrap 5 large button"
+  },
+  "Button Light": {
+    "prefix": "btn-light",
+    "body": "btn btn-light",
+    "description": "Bootstrap 5 light button"
+  },
+  "Button Link": {
+    "prefix": "btn-link",
+    "body": "btn btn-link",
+    "description": "Bootstrap 5 link button"
+  },
+  "Button Outline Danger": {
+    "prefix": "btn-outline-danger",
+    "body": "btn btn-outline-danger",
+    "description": "Bootstrap 5 outline danger button"
+  },
+  "Button Outline Dark": {
+    "prefix": "btn-outline-dark",
+    "body": "btn btn-outline-dark",
+    "description": "Bootstrap 5 outline dark button"
+  },
+  "Button Outline Info": {
+    "prefix": "btn-outline-info",
+    "body": "btn btn-outline-info",
+    "description": "Bootstrap 5 outline info button"
+  },
+  "Button Outline Light": {
+    "prefix": "btn-outline-light",
+    "body": "btn btn-outline-light",
+    "description": "Bootstrap 5 outline light button"
+  },
+  "Button Outline Primary": {
+    "prefix": "btn-outline-primary",
+    "body": "btn btn-outline-primary",
+    "description": "Bootstrap 5 outline primary button"
+  },
+  "Button Outline Secondary": {
+    "prefix": "btn-outline-secondary",
+    "body": "btn btn-outline-secondary",
+    "description": "Bootstrap 5 outline secondary button"
+  },
+  "Button Outline Success": {
+    "prefix": "btn-outline-success",
+    "body": "btn btn-outline-success",
+    "description": "Bootstrap 5 outline success button"
+  },
+  "Button Outline Warning": {
+    "prefix": "btn-outline-warning",
+    "body": "btn btn-outline-warning",
+    "description": "Bootstrap 5 outline warning button"
+  },
+  "Button Primary": {
+    "prefix": "btn-primary",
+    "body": "btn btn-primary",
+    "description": "Bootstrap 5 primary button"
+  },
+  "Button Secondary": {
+    "prefix": "btn-secondary",
+    "body": "btn btn-secondary",
+    "description": "Bootstrap 5 secondary button"
+  },
+  "Button Small": {
+    "prefix": "btn-sm",
+    "body": "btn btn-sm",
+    "description": "Bootstrap 5 small button"
+  },
+  "Button Success": {
+    "prefix": "btn-success",
+    "body": "btn btn-success",
+    "description": "Bootstrap 5 success button"
+  },
+  "Button Toolbar": {
+    "prefix": "btn-toolbar",
+    "body": "btn-toolbar",
+    "description": "Bootstrap 5 button toolbar"
+  },
+  "Button Warning": {
+    "prefix": "btn-warning",
+    "body": "btn btn-warning",
+    "description": "Bootstrap 5 warning button"
+  },
+  "Button": {
+    "prefix": "btn",
+    "body": "btn",
+    "description": "Bootstrap 5 button base class"
+  },
+  "Card Body": {
+    "prefix": "card-body",
+    "body": "card-body",
+    "description": "Bootstrap 5 card body"
+  },
+  "Card Footer": {
+    "prefix": "card-footer",
+    "body": "card-footer",
+    "description": "Bootstrap 5 card footer"
+  },
+  "Card Group": {
+    "prefix": "card-group",
+    "body": "card-group",
+    "description": "Bootstrap 5 card group"
+  },
+  "Card Header": {
+    "prefix": "card-header",
+    "body": "card-header",
+    "description": "Bootstrap 5 card header"
+  },
+  "Card Header Pills": {
+    "prefix": "card-header-pills",
+    "body": "card-header-pills",
+    "description": "Bootstrap 5 card header pills"
+  },
+  "Card Header Tabs": {
+    "prefix": "card-header-tabs",
+    "body": "card-header-tabs",
+    "description": "Bootstrap 5 card header tabs"
+  },
+  "Card Img Bottom": {
+    "prefix": "card-img-bottom",
+    "body": "card-img-bottom",
+    "description": "Bootstrap 5 card image bottom"
+  },
+  "Card Img Overlay": {
+    "prefix": "card-img-overlay",
+    "body": "card-img-overlay",
+    "description": "Bootstrap 5 card image overlay"
+  },
+  "Card Img Top": {
+    "prefix": "card-img-top",
+    "body": "card-img-top",
+    "description": "Bootstrap 5 card image top"
+  },
+  "Card Img": {
+    "prefix": "card-img",
+    "body": "card-img",
+    "description": "Bootstrap 5 card image"
+  },
+  "Card Subtitle": {
+    "prefix": "card-subtitle",
+    "body": "card-subtitle",
+    "description": "Bootstrap 5 card subtitle"
+  },
+  "Card Text": {
+    "prefix": "card-text",
+    "body": "card-text",
+    "description": "Bootstrap 5 card text"
+  },
+  "Card Title": {
+    "prefix": "card-title",
+    "body": "card-title",
+    "description": "Bootstrap 5 card title"
+  },
+  "Card": {
+    "prefix": "card",
+    "body": "card",
+    "description": "Bootstrap 5 card"
+  },
+  "Carousel": {
+    "prefix": "carousel",
+    "body": "carousel slide",
+    "description": "Bootstrap 5 carousel"
+  },
+  "Clearfix": {
+    "prefix": "clearfix",
+    "body": "clearfix",
+    "description": "Bootstrap 5 clearfix"
+  },
+  "Close Button": {
+    "prefix": "btn-close",
+    "body": "btn-close",
+    "description": "Bootstrap 5 close button"
+  },
+  "Col Auto": {
+    "prefix": "col-auto",
+    "body": "col-auto",
+    "description": "Bootstrap 5 col auto"
+  },
+  "Col LG": {
+    "prefix": "col-lg",
+    "body": "col-lg",
+    "description": "Bootstrap 5 col large"
+  },
+  "Col MD": {
+    "prefix": "col-md",
+    "body": "col-md",
+    "description": "Bootstrap 5 col medium"
+  },
+  "Col SM": {
+    "prefix": "col-sm",
+    "body": "col-sm",
+    "description": "Bootstrap 5 col small"
+  },
+  "Col XL": {
+    "prefix": "col-xl",
+    "body": "col-xl",
+    "description": "Bootstrap 5 col extra large"
+  },
+  "Col": {
+    "prefix": "col",
+    "body": "col",
+    "description": "Bootstrap 5 column"
+  },
+  "Col 1": {
+    "prefix": "col-1",
+    "body": "col-1",
+    "description": "Bootstrap 5 column 1 of 12"
+  },
+  "Col 2": {
+    "prefix": "col-2",
+    "body": "col-2",
+    "description": "Bootstrap 5 column 2 of 12"
+  },
+  "Col 3": {
+    "prefix": "col-3",
+    "body": "col-3",
+    "description": "Bootstrap 5 column 3 of 12"
+  },
+  "Col 4": {
+    "prefix": "col-4",
+    "body": "col-4",
+    "description": "Bootstrap 5 column 4 of 12"
+  },
+  "Col 5": {
+    "prefix": "col-5",
+    "body": "col-5",
+    "description": "Bootstrap 5 column 5 of 12"
+  },
+  "Col 6": {
+    "prefix": "col-6",
+    "body": "col-6",
+    "description": "Bootstrap 5 column 6 of 12"
+  },
+  "Col 7": {
+    "prefix": "col-7",
+    "body": "col-7",
+    "description": "Bootstrap 5 column 7 of 12"
+  },
+  "Col 8": {
+    "prefix": "col-8",
+    "body": "col-8",
+    "description": "Bootstrap 5 column 8 of 12"
+  },
+  "Col 9": {
+    "prefix": "col-9",
+    "body": "col-9",
+    "description": "Bootstrap 5 column 9 of 12"
+  },
+  "Col 10": {
+    "prefix": "col-10",
+    "body": "col-10",
+    "description": "Bootstrap 5 column 10 of 12"
+  },
+  "Col 11": {
+    "prefix": "col-11",
+    "body": "col-11",
+    "description": "Bootstrap 5 column 11 of 12"
+  },
+  "Col 12": {
+    "prefix": "col-12",
+    "body": "col-12",
+    "description": "Bootstrap 5 column 12 of 12"
+  },
+  "Col Auto": {
+    "prefix": "col-auto",
+    "body": "col-auto",
+    "description": "Bootstrap 5 column auto width"
+  },
+  "Col Form Label": {
+    "prefix": "col-form-label",
+    "body": "col-form-label",
+    "description": "Bootstrap 5 column form label"
+  },
+  "Col Form Label LG": {
+    "prefix": "col-form-label-lg",
+    "body": "col-form-label-lg",
+    "description": "Bootstrap 5 column form label large"
+  },
+  "Col Form Label SM": {
+    "prefix": "col-form-label-sm",
+    "body": "col-form-label-sm",
+    "description": "Bootstrap 5 column form label small"
+  },
+  "Col LG": {
+    "prefix": "col-lg",
+    "body": "col-lg",
+    "description": "Bootstrap 5 column large"
+  },
+  "Col LG 1": {
+    "prefix": "col-lg-1",
+    "body": "col-lg-1",
+    "description": "Bootstrap 5 column large 1 of 12"
+  },
+  "Col LG 2": {
+    "prefix": "col-lg-2",
+    "body": "col-lg-2",
+    "description": "Bootstrap 5 column large 2 of 12"
+  },
+  "Col LG 3": {
+    "prefix": "col-lg-3",
+    "body": "col-lg-3",
+    "description": "Bootstrap 5 column large 3 of 12"
+  },
+  "Col LG 4": {
+    "prefix": "col-lg-4",
+    "body": "col-lg-4",
+    "description": "Bootstrap 5 column large 4 of 12"
+  },
+  "Col LG 5": {
+    "prefix": "col-lg-5",
+    "body": "col-lg-5",
+    "description": "Bootstrap 5 column large 5 of 12"
+  },
+  "Col LG 6": {
+    "prefix": "col-lg-6",
+    "body": "col-lg-6",
+    "description": "Bootstrap 5 column large 6 of 12"
+  },
+  "Col LG 7": {
+    "prefix": "col-lg-7",
+    "body": "col-lg-7",
+    "description": "Bootstrap 5 column large 7 of 12"
+  },
+  "Col LG 8": {
+    "prefix": "col-lg-8",
+    "body": "col-lg-8",
+    "description": "Bootstrap 5 column large 8 of 12"
+  },
+  "Col LG 9": {
+    "prefix": "col-lg-9",
+    "body": "col-lg-9",
+    "description": "Bootstrap 5 column large 9 of 12"
+  },
+  "Col LG 10": {
+    "prefix": "col-lg-10",
+    "body": "col-lg-10",
+    "description": "Bootstrap 5 column large 10 of 12"
+  },
+  "Col LG 11": {
+    "prefix": "col-lg-11",
+    "body": "col-lg-11",
+    "description": "Bootstrap 5 column large 11 of 12"
+  },
+  "Col LG 12": {
+    "prefix": "col-lg-12",
+    "body": "col-lg-12",
+    "description": "Bootstrap 5 column large 12 of 12"
+  },
+  "Col LG Auto": {
+    "prefix": "col-lg-auto",
+    "body": "col-lg-auto",
+    "description": "Bootstrap 5 column large auto width"
+  },
+  "Col MD": {
+    "prefix": "col-md",
+    "body": "col-md",
+    "description": "Bootstrap 5 column medium"
+  },
+  "Col MD 1": {
+    "prefix": "col-md-1",
+    "body": "col-md-1",
+    "description": "Bootstrap 5 column medium 1 of 12"
+  },
+  "Col MD 2": {
+    "prefix": "col-md-2",
+    "body": "col-md-2",
+    "description": "Bootstrap 5 column medium 2 of 12"
+  },
+  "Col MD 3": {
+    "prefix": "col-md-3",
+    "body": "col-md-3",
+    "description": "Bootstrap 5 column medium 3 of 12"
+  },
+  "Col MD 4": {
+    "prefix": "col-md-4",
+    "body": "col-md-4",
+    "description": "Bootstrap 5 column medium 4 of 12"
+  },
+  "Col MD 5": {
+    "prefix": "col-md-5",
+    "body": "col-md-5",
+    "description": "Bootstrap 5 column medium 5 of 12"
+  },
+  "Col MD 6": {
+    "prefix": "col-md-6",
+    "body": "col-md-6",
+    "description": "Bootstrap 5 column medium 6 of 12"
+  },
+  "Col MD 7": {
+    "prefix": "col-md-7",
+    "body": "col-md-7",
+    "description": "Bootstrap 5 column medium 7 of 12"
+  },
+  "Col MD 8": {
+    "prefix": "col-md-8",
+    "body": "col-md-8",
+    "description": "Bootstrap 5 column medium 8 of 12"
+  },
+  "Col MD 9": {
+    "prefix": "col-md-9",
+    "body": "col-md-9",
+    "description": "Bootstrap 5 column medium 9 of 12"
+  },
+  "Col MD 10": {
+    "prefix": "col-md-10",
+    "body": "col-md-10",
+    "description": "Bootstrap 5 column medium 10 of 12"
+  },
+  "Col MD 11": {
+    "prefix": "col-md-11",
+    "body": "col-md-11",
+    "description": "Bootstrap 5 column medium 11 of 12"
+  },
+  "Col MD 12": {
+    "prefix": "col-md-12",
+    "body": "col-md-12",
+    "description": "Bootstrap 5 column medium 12 of 12"
+  },
+  "Col MD Auto": {
+    "prefix": "col-md-auto",
+    "body": "col-md-auto",
+    "description": "Bootstrap 5 column medium auto width"
+  },
+  "Col SM": {
+    "prefix": "col-sm",
+    "body": "col-sm",
+    "description": "Bootstrap 5 column small"
+  },
+  "Col SM 1": {
+    "prefix": "col-sm-1",
+    "body": "col-sm-1",
+    "description": "Bootstrap 5 column small 1 of 12"
+  },
+  "Col SM 2": {
+    "prefix": "col-sm-2",
+    "body": "col-sm-2",
+    "description": "Bootstrap 5 column small 2 of 12"
+  },
+  "Col SM 3": {
+    "prefix": "col-sm-3",
+    "body": "col-sm-3",
+    "description": "Bootstrap 5 column small 3 of 12"
+  },
+  "Col SM 4": {
+    "prefix": "col-sm-4",
+    "body": "col-sm-4",
+    "description": "Bootstrap 5 column small 4 of 12"
+  },
+  "Col SM 5": {
+    "prefix": "col-sm-5",
+    "body": "col-sm-5",
+    "description": "Bootstrap 5 column small 5 of 12"
+  },
+  "Col SM 6": {
+    "prefix": "col-sm-6",
+    "body": "col-sm-6",
+    "description": "Bootstrap 5 column small 6 of 12"
+  },
+  "Col SM 7": {
+    "prefix": "col-sm-7",
+    "body": "col-sm-7",
+    "description": "Bootstrap 5 column small 7 of 12"
+  },
+  "Col SM 8": {
+    "prefix": "col-sm-8",
+    "body": "col-sm-8",
+    "description": "Bootstrap 5 column small 8 of 12"
+  },
+  "Col SM 9": {
+    "prefix": "col-sm-9",
+    "body": "col-sm-9",
+    "description": "Bootstrap 5 column small 9 of 12"
+  },
+  "Col SM 10": {
+    "prefix": "col-sm-10",
+    "body": "col-sm-10",
+    "description": "Bootstrap 5 column small 10 of 12"
+  },
+  "Col SM 11": {
+    "prefix": "col-sm-11",
+    "body": "col-sm-11",
+    "description": "Bootstrap 5 column small 11 of 12"
+  },
+  "Col SM 12": {
+    "prefix": "col-sm-12",
+    "body": "col-sm-12",
+    "description": "Bootstrap 5 column small 12 of 12"
+  },
+  "Col SM Auto": {
+    "prefix": "col-sm-auto",
+    "body": "col-sm-auto",
+    "description": "Bootstrap 5 column small auto width"
+  },
+  "Col XL": {
+    "prefix": "col-xl",
+    "body": "col-xl",
+    "description": "Bootstrap 5 column extra large"
+  },
+  "Col XL 1": {
+    "prefix": "col-xl-1",
+    "body": "col-xl-1",
+    "description": "Bootstrap 5 column extra large 1 of 12"
+  },
+  "Col XL 2": {
+    "prefix": "col-xl-2",
+    "body": "col-xl-2",
+    "description": "Bootstrap 5 column extra large 2 of 12"
+  },
+  "Col XL 3": {
+    "prefix": "col-xl-3",
+    "body": "col-xl-3",
+    "description": "Bootstrap 5 column extra large 3 of 12"
+  },
+  "Col XL 4": {
+    "prefix": "col-xl-4",
+    "body": "col-xl-4",
+    "description": "Bootstrap 5 column extra large 4 of 12"
+  },
+  "Col XL 5": {
+    "prefix": "col-xl-5",
+    "body": "col-xl-5",
+    "description": "Bootstrap 5 column extra large 5 of 12"
+  },
+  "Col XL 6": {
+    "prefix": "col-xl-6",
+    "body": "col-xl-6",
+    "description": "Bootstrap 5 column extra large 6 of 12"
+  },
+  "Col XL 7": {
+    "prefix": "col-xl-7",
+    "body": "col-xl-7",
+    "description": "Bootstrap 5 column extra large 7 of 12"
+  },
+  "Col XL 8": {
+    "prefix": "col-xl-8",
+    "body": "col-xl-8",
+    "description": "Bootstrap 5 column extra large 8 of 12"
+  },
+  "Col XL 9": {
+    "prefix": "col-xl-9",
+    "body": "col-xl-9",
+    "description": "Bootstrap 5 column extra large 9 of 12"
+  },
+  "Col XL 10": {
+    "prefix": "col-xl-10",
+    "body": "col-xl-10",
+    "description": "Bootstrap 5 column extra large 10 of 12"
+  },
+  "Col XL 11": {
+    "prefix": "col-xl-11",
+    "body": "col-xl-11",
+    "description": "Bootstrap 5 column extra large 11 of 12"
+  },
+  "Col XL 12": {
+    "prefix": "col-xl-12",
+    "body": "col-xl-12",
+    "description": "Bootstrap 5 column extra large 12 of 12"
+  },
+  "Col XL Auto": {
+    "prefix": "col-xl-auto",
+    "body": "col-xl-auto",
+    "description": "Bootstrap 5 column extra large auto width"
+  },
+  "Collapse": {
+    "prefix": "collapse",
+    "body": "collapse",
+    "description": "Bootstrap 5 collapse"
+  },
+  "Collapsing": {
+    "prefix": "collapsing",
+    "body": "collapsing",
+    "description": "Bootstrap 5 collapsing"
+  },
+  "Container Fluid": {
+    "prefix": "container-fluid",
+    "body": "container-fluid",
+    "description": "Bootstrap 5 fluid container"
+  },
+  "Container LG": {
+    "prefix": "container-lg",
+    "body": "container-lg",
+    "description": "Bootstrap 5 large container"
+  },
+  "Container MD": {
+    "prefix": "container-md",
+    "body": "container-md",
+    "description": "Bootstrap 5 medium container"
+  },
+  "Container SM": {
+    "prefix": "container-sm",
+    "body": "container-sm",
+    "description": "Bootstrap 5 small container"
+  },
+  "Container XL": {
+    "prefix": "container-xl",
+    "body": "container-xl",
+    "description": "Bootstrap 5 extra large container"
+  },
+  "Container XXL": {
+    "prefix": "container-xxl",
+    "body": "container-xxl",
+    "description": "Bootstrap 5 extra extra large container"
+  },
+  "Container": {
+    "prefix": "container",
+    "body": "container",
+    "description": "Bootstrap 5 container"
+  },
+  "D Block": {
+    "prefix": "d-block",
+    "body": "d-block",
+    "description": "Bootstrap 5 display block"
+  },
+  "D Flex": {
+    "prefix": "d-flex",
+    "body": "d-flex",
+    "description": "Bootstrap 5 display flex"
+  },
+  "D Grid": {
+    "prefix": "d-grid",
+    "body": "d-grid",
+    "description": "Bootstrap 5 display grid"
+  },
+  "D Inline Block": {
+    "prefix": "d-inline-block",
+    "body": "d-inline-block",
+    "description": "Bootstrap 5 display inline block"
+  },
+  "D Inline Flex": {
+    "prefix": "d-inline-flex",
+    "body": "d-inline-flex",
+    "description": "Bootstrap 5 display inline flex"
+  },
+  "D Inline": {
+    "prefix": "d-inline",
+    "body": "d-inline",
+    "description": "Bootstrap 5 display inline"
+  },
+  "D None": {
+    "prefix": "d-none",
+    "body": "d-none",
+    "description": "Bootstrap 5 display none"
+  },
+  "D Table Cell": {
+    "prefix": "d-table-cell",
+    "body": "d-table-cell",
+    "description": "Bootstrap 5 display table cell"
+  },
+  "D Table": {
+    "prefix": "d-table",
+    "body": "d-table",
+    "description": "Bootstrap 5 display table"
+  },
+  "Display 1": {
+    "prefix": "display-1",
+    "body": "display-1",
+    "description": "Bootstrap 5 display heading 1"
+  },
+  "Display 2": {
+    "prefix": "display-2",
+    "body": "display-2",
+    "description": "Bootstrap 5 display heading 2"
+  },
+  "Display 3": {
+    "prefix": "display-3",
+    "body": "display-3",
+    "description": "Bootstrap 5 display heading 3"
+  },
+  "Display 4": {
+    "prefix": "display-4",
+    "body": "display-4",
+    "description": "Bootstrap 5 display heading 4"
+  },
+  "Display 5": {
+    "prefix": "display-5",
+    "body": "display-5",
+    "description": "Bootstrap 5 display heading 5"
+  },
+  "Display 6": {
+    "prefix": "display-6",
+    "body": "display-6",
+    "description": "Bootstrap 5 display heading 6"
+  },
+  "Divider": {
+    "prefix": "divider",
+    "body": "dropdown-divider",
+    "description": "Bootstrap 5 divider"
+  },
+  "Dropdown Item": {
+    "prefix": "dropdown-item",
+    "body": "dropdown-item",
+    "description": "Bootstrap 5 dropdown item"
+  },
+  "Dropdown Menu End": {
+    "prefix": "dropdown-menu-end",
+    "body": "dropdown-menu dropdown-menu-end",
+    "description": "Bootstrap 5 dropdown menu end"
+  },
+  "Dropdown Menu": {
+    "prefix": "dropdown-menu",
+    "body": "dropdown-menu",
+    "description": "Bootstrap 5 dropdown menu"
+  },
+  "Dropdown Toggle Split": {
+    "prefix": "dropdown-toggle-split",
+    "body": "dropdown-toggle dropdown-toggle-split",
+    "description": "Bootstrap 5 dropdown toggle split"
+  },
+  "Dropdown Toggle": {
+    "prefix": "dropdown-toggle",
+    "body": "dropdown-toggle",
+    "description": "Bootstrap 5 dropdown toggle"
+  },
+  "Dropdown": {
+    "prefix": "dropdown",
+    "body": "dropdown",
+    "description": "Bootstrap 5 dropdown"
+  },
+  "Dropend": {
+    "prefix": "dropend",
+    "body": "dropend",
+    "description": "Bootstrap 5 dropend"
+  },
+  "Dropstart": {
+    "prefix": "dropstart",
+    "body": "dropstart",
+    "description": "Bootstrap 5 dropstart"
+  },
+  "Dropup": {
+    "prefix": "dropup",
+    "body": "dropup",
+    "description": "Bootstrap 5 dropup"
+  },
+  "End 0": {
+    "prefix": "end-0",
+    "body": "end-0",
+    "description": "Bootstrap 5 end 0"
+  },
+  "End 50": {
+    "prefix": "end-50",
+    "body": "end-50",
+    "description": "Bootstrap 5 end 50%"
+  },
+  "End 100": {
+    "prefix": "end-100",
+    "body": "end-100",
+    "description": "Bootstrap 5 end 100%"
+  },
+  "Fade": {
+    "prefix": "fade",
+    "body": "fade",
+    "description": "Bootstrap 5 fade"
+  },
+  "Figure Caption": {
+    "prefix": "figure-caption",
+    "body": "figure-caption",
+    "description": "Bootstrap 5 figure caption"
+  },
+  "Figure Img": {
+    "prefix": "figure-img",
+    "body": "figure-img",
+    "description": "Bootstrap 5 figure image"
+  },
+  "Figure": {
+    "prefix": "figure",
+    "body": "figure",
+    "description": "Bootstrap 5 figure"
+  },
+  "Fixed Bottom": {
+    "prefix": "fixed-bottom",
+    "body": "fixed-bottom",
+    "description": "Bootstrap 5 fixed bottom"
+  },
+  "Fixed Top": {
+    "prefix": "fixed-top",
+    "body": "fixed-top",
+    "description": "Bootstrap 5 fixed top"
+  },
+  "Flex Column Reverse": {
+    "prefix": "flex-column-reverse",
+    "body": "flex-column-reverse",
+    "description": "Bootstrap 5 flex column reverse"
+  },
+  "Flex Column": {
+    "prefix": "flex-column",
+    "body": "flex-column",
+    "description": "Bootstrap 5 flex column"
+  },
+  "Flex Fill": {
+    "prefix": "flex-fill",
+    "body": "flex-fill",
+    "description": "Bootstrap 5 flex fill"
+  },
+  "Flex Grow 0": {
+    "prefix": "flex-grow-0",
+    "body": "flex-grow-0",
+    "description": "Bootstrap 5 flex grow 0"
+  },
+  "Flex Grow 1": {
+    "prefix": "flex-grow-1",
+    "body": "flex-grow-1",
+    "description": "Bootstrap 5 flex grow 1"
+  },
+  "Flex Nowrap": {
+    "prefix": "flex-nowrap",
+    "body": "flex-nowrap",
+    "description": "Bootstrap 5 flex nowrap"
+  },
+  "Flex Row Reverse": {
+    "prefix": "flex-row-reverse",
+    "body": "flex-row-reverse",
+    "description": "Bootstrap 5 flex row reverse"
+  },
+  "Flex Row": {
+    "prefix": "flex-row",
+    "body": "flex-row",
+    "description": "Bootstrap 5 flex row"
+  },
+  "Flex Shrink 0": {
+    "prefix": "flex-shrink-0",
+    "body": "flex-shrink-0",
+    "description": "Bootstrap 5 flex shrink 0"
+  },
+  "Flex Shrink 1": {
+    "prefix": "flex-shrink-1",
+    "body": "flex-shrink-1",
+    "description": "Bootstrap 5 flex shrink 1"
+  },
+  "Flex Wrap Reverse": {
+    "prefix": "flex-wrap-reverse",
+    "body": "flex-wrap-reverse",
+    "description": "Bootstrap 5 flex wrap reverse"
+  },
+  "Flex Wrap": {
+    "prefix": "flex-wrap",
+    "body": "flex-wrap",
+    "description": "Bootstrap 5 flex wrap"
+  },
+  "Float End": {
+    "prefix": "float-end",
+    "body": "float-end",
+    "description": "Bootstrap 5 float end (right)"
+  },
+  "Float None": {
+    "prefix": "float-none",
+    "body": "float-none",
+    "description": "Bootstrap 5 float none"
+  },
+  "Float Start": {
+    "prefix": "float-start",
+    "body": "float-start",
+    "description": "Bootstrap 5 float start (left)"
+  },
+  "Focus Ring": {
+    "prefix": "focus-ring",
+    "body": "focus-ring",
+    "description": "Bootstrap 5 focus ring"
+  },
+  "Font Monospace": {
+    "prefix": "font-monospace",
+    "body": "font-monospace",
+    "description": "Bootstrap 5 font monospace"
+  },
+  "Form Check Inline": {
+    "prefix": "form-check-inline",
+    "body": "form-check-inline",
+    "description": "Bootstrap 5 form check inline"
+  },
+  "Form Check Input": {
+    "prefix": "form-check-input",
+    "body": "form-check-input",
+    "description": "Bootstrap 5 form check input"
+  },
+  "Form Check Label": {
+    "prefix": "form-check-label",
+    "body": "form-check-label",
+    "description": "Bootstrap 5 form check label"
+  },
+  "Form Check": {
+    "prefix": "form-check",
+    "body": "form-check",
+    "description": "Bootstrap 5 form check"
+  },
+  "Form Control Disabled": {
+    "prefix": "form-control-disabled",
+    "body": "form-control",
+    "description": "Bootstrap 5 form control disabled (add disabled attribute)"
+  },
+  "Form Control File": {
+    "prefix": "form-control-file",
+    "body": "form-control",
+    "description": "Bootstrap 5 form control file"
+  },
+  "Form Control Large": {
+    "prefix": "form-control-lg",
+    "body": "form-control form-control-lg",
+    "description": "Bootstrap 5 large form control"
+  },
+  "Form Control Plaintext": {
+    "prefix": "form-control-plaintext",
+    "body": "form-control-plaintext",
+    "description": "Bootstrap 5 form control plaintext"
+  },
+  "Form Control Small": {
+    "prefix": "form-control-sm",
+    "body": "form-control form-control-sm",
+    "description": "Bootstrap 5 small form control"
+  },
+  "Form Control": {
+    "prefix": "form-control",
+    "body": "form-control",
+    "description": "Bootstrap 5 form control"
+  },
+  "Form Floating": {
+    "prefix": "form-floating",
+    "body": "form-floating",
+    "description": "Bootstrap 5 form floating"
+  },
+  "Form Select Large": {
+    "prefix": "form-select-lg",
+    "body": "form-select form-select-lg",
+    "description": "Bootstrap 5 large form select"
+  },
+  "Form Select Small": {
+    "prefix": "form-select-sm",
+    "body": "form-select form-select-sm",
+    "description": "Bootstrap 5 small form select"
+  },
+  "Form Select": {
+    "prefix": "form-select",
+    "body": "form-select",
+    "description": "Bootstrap 5 form select"
+  },
+  "Form Switch": {
+    "prefix": "form-switch",
+    "body": "form-check form-switch",
+    "description": "Bootstrap 5 form switch"
+  },
+  "Form Text": {
+    "prefix": "form-text",
+    "body": "form-text",
+    "description": "Bootstrap 5 form text"
+  },
+  "Gap 0": {
+    "prefix": "gap-0",
+    "body": "gap-0",
+    "description": "Bootstrap 5 gap 0"
+  },
+  "Gap 1": {
+    "prefix": "gap-1",
+    "body": "gap-1",
+    "description": "Bootstrap 5 gap 1"
+  },
+  "Gap 2": {
+    "prefix": "gap-2",
+    "body": "gap-2",
+    "description": "Bootstrap 5 gap 2"
+  },
+  "Gap 3": {
+    "prefix": "gap-3",
+    "body": "gap-3",
+    "description": "Bootstrap 5 gap 3"
+  },
+  "Gap 4": {
+    "prefix": "gap-4",
+    "body": "gap-4",
+    "description": "Bootstrap 5 gap 4"
+  },
+  "Gap 5": {
+    "prefix": "gap-5",
+    "body": "gap-5",
+    "description": "Bootstrap 5 gap 5"
+  },
+  "Gutter 0": {
+    "prefix": "g-0",
+    "body": "g-0",
+    "description": "Bootstrap 5 gutter 0"
+  },
+  "Gutter 1": {
+    "prefix": "g-1",
+    "body": "g-1",
+    "description": "Bootstrap 5 gutter 1"
+  },
+  "Gutter 2": {
+    "prefix": "g-2",
+    "body": "g-2",
+    "description": "Bootstrap 5 gutter 2"
+  },
+  "Gutter 3": {
+    "prefix": "g-3",
+    "body": "g-3",
+    "description": "Bootstrap 5 gutter 3"
+  },
+  "Gutter 4": {
+    "prefix": "g-4",
+    "body": "g-4",
+    "description": "Bootstrap 5 gutter 4"
+  },
+  "Gutter 5": {
+    "prefix": "g-5",
+    "body": "g-5",
+    "description": "Bootstrap 5 gutter 5"
+  },
+  "H 100": {
+    "prefix": "h-100",
+    "body": "h-100",
+    "description": "Bootstrap 5 height 100%"
+  },
+  "H 25": {
+    "prefix": "h-25",
+    "body": "h-25",
+    "description": "Bootstrap 5 height 25%"
+  },
+  "H 50": {
+    "prefix": "h-50",
+    "body": "h-50",
+    "description": "Bootstrap 5 height 50%"
+  },
+  "H 75": {
+    "prefix": "h-75",
+    "body": "h-75",
+    "description": "Bootstrap 5 height 75%"
+  },
+  "H Auto": {
+    "prefix": "h-auto",
+    "body": "h-auto",
+    "description": "Bootstrap 5 height auto"
+  },
+  "H1": {
+    "prefix": "h1",
+    "body": "h1",
+    "description": "Bootstrap 5 heading 1"
+  },
+  "H2": {
+    "prefix": "h2",
+    "body": "h2",
+    "description": "Bootstrap 5 heading 2"
+  },
+  "H3": {
+    "prefix": "h3",
+    "body": "h3",
+    "description": "Bootstrap 5 heading 3"
+  },
+  "H4": {
+    "prefix": "h4",
+    "body": "h4",
+    "description": "Bootstrap 5 heading 4"
+  },
+  "H5": {
+    "prefix": "h5",
+    "body": "h5",
+    "description": "Bootstrap 5 heading 5"
+  },
+  "H6": {
+    "prefix": "h6",
+    "body": "h6",
+    "description": "Bootstrap 5 heading 6"
+  },
+  "Img Fluid": {
+    "prefix": "img-fluid",
+    "body": "img-fluid",
+    "description": "Bootstrap 5 fluid image"
+  },
+  "Img Thumbnail": {
+    "prefix": "img-thumbnail",
+    "body": "img-thumbnail",
+    "description": "Bootstrap 5 image thumbnail"
+  },
+  "Input Group Large": {
+    "prefix": "input-group-lg",
+    "body": "input-group input-group-lg",
+    "description": "Bootstrap 5 large input group"
+  },
+  "Input Group Small": {
+    "prefix": "input-group-sm",
+    "body": "input-group input-group-sm",
+    "description": "Bootstrap 5 small input group"
+  },
+  "Input Group Text": {
+    "prefix": "input-group-text",
+    "body": "input-group-text",
+    "description": "Bootstrap 5 input group text"
+  },
+  "Input Group": {
+    "prefix": "input-group",
+    "body": "input-group",
+    "description": "Bootstrap 5 input group"
+  },
+  "Invalid Feedback": {
+    "prefix": "invalid-feedback",
+    "body": "invalid-feedback",
+    "description": "Bootstrap 5 invalid feedback"
+  },
+  "Invalid Tooltip": {
+    "prefix": "invalid-tooltip",
+    "body": "invalid-tooltip",
+    "description": "Bootstrap 5 invalid tooltip"
+  },
+  "Invisible": {
+    "prefix": "invisible",
+    "body": "invisible",
+    "description": "Bootstrap 5 invisible"
+  },
+  "Is Invalid": {
+    "prefix": "is-invalid",
+    "body": "is-invalid",
+    "description": "Bootstrap 5 is invalid"
+  },
+  "Is Valid": {
+    "prefix": "is-valid",
+    "body": "is-valid",
+    "description": "Bootstrap 5 is valid"
+  },
+  "Jumbotron": {
+    "prefix": "jumbotron",
+    "body": "p-5 mb-4 bg-light rounded-3",
+    "description": "Bootstrap 5 jumbotron style"
+  },
+  "Justify Content Around": {
+    "prefix": "justify-content-around",
+    "body": "justify-content-around",
+    "description": "Bootstrap 5 justify content around"
+  },
+  "Justify Content Between": {
+    "prefix": "justify-content-between",
+    "body": "justify-content-between",
+    "description": "Bootstrap 5 justify content between"
+  },
+  "Justify Content Center": {
+    "prefix": "justify-content-center",
+    "body": "justify-content-center",
+    "description": "Bootstrap 5 justify content center"
+  },
+  "Justify Content End": {
+    "prefix": "justify-content-end",
+    "body": "justify-content-end",
+    "description": "Bootstrap 5 justify content end"
+  },
+  "Justify Content Start": {
+    "prefix": "justify-content-start",
+    "body": "justify-content-start",
+    "description": "Bootstrap 5 justify content start"
+  },
+  "Lead": {
+    "prefix": "lead",
+    "body": "lead",
+    "description": "Bootstrap 5 lead paragraph"
+  },
+  "List Group Action": {
+    "prefix": "list-group-item-action",
+    "body": "list-group-item list-group-item-action",
+    "description": "Bootstrap 5 list group item action"
+  },
+  "List Group Danger": {
+    "prefix": "list-group-item-danger",
+    "body": "list-group-item list-group-item-danger",
+    "description": "Bootstrap 5 list group item danger"
+  },
+  "List Group Dark": {
+    "prefix": "list-group-item-dark",
+    "body": "list-group-item list-group-item-dark",
+    "description": "Bootstrap 5 list group item dark"
+  },
+  "List Group Flush": {
+    "prefix": "list-group-flush",
+    "body": "list-group-flush",
+    "description": "Bootstrap 5 list group flush"
+  },
+  "List Group Info": {
+    "prefix": "list-group-item-info",
+    "body": "list-group-item list-group-item-info",
+    "description": "Bootstrap 5 list group item info"
+  },
+  "List Group Light": {
+    "prefix": "list-group-item-light",
+    "body": "list-group-item list-group-item-light",
+    "description": "Bootstrap 5 list group item light"
+  },
+  "List Group Primary": {
+    "prefix": "list-group-item-primary",
+    "body": "list-group-item list-group-item-primary",
+    "description": "Bootstrap 5 list group item primary"
+  },
+  "List Group Secondary": {
+    "prefix": "list-group-item-secondary",
+    "body": "list-group-item list-group-item-secondary",
+    "description": "Bootstrap 5 list group item secondary"
+  },
+  "List Group Success": {
+    "prefix": "list-group-item-success",
+    "body": "list-group-item list-group-item-success",
+    "description": "Bootstrap 5 list group item success"
+  },
+  "List Group Warning": {
+    "prefix": "list-group-item-warning",
+    "body": "list-group-item list-group-item-warning",
+    "description": "Bootstrap 5 list group item warning"
+  },
+  "List Group": {
+    "prefix": "list-group",
+    "body": "list-group",
+    "description": "Bootstrap 5 list group"
+  },
+  "List Inline": {
+    "prefix": "list-inline",
+    "body": "list-inline",
+    "description": "Bootstrap 5 inline list"
+  },
+  "List Unstyled": {
+    "prefix": "list-unstyled",
+    "body": "list-unstyled",
+    "description": "Bootstrap 5 unstyled list"
+  },
+  "Margin Auto": {
+    "prefix": "m-auto",
+    "body": "m-auto",
+    "description": "Bootstrap 5 margin auto"
+  },
+  "Margin Bottom Auto": {
+    "prefix": "mb-auto",
+    "body": "mb-auto",
+    "description": "Bootstrap 5 margin bottom auto"
+  },
+  "Margin Bottom 0": {
+    "prefix": "mb-0",
+    "body": "mb-0",
+    "description": "Bootstrap 5 margin bottom 0"
+  },
+  "Margin Bottom 1": {
+    "prefix": "mb-1",
+    "body": "mb-1",
+    "description": "Bootstrap 5 margin bottom 1"
+  },
+  "Margin Bottom 2": {
+    "prefix": "mb-2",
+    "body": "mb-2",
+    "description": "Bootstrap 5 margin bottom 2"
+  },
+  "Margin Bottom 3": {
+    "prefix": "mb-3",
+    "body": "mb-3",
+    "description": "Bootstrap 5 margin bottom 3"
+  },
+  "Margin Bottom 4": {
+    "prefix": "mb-4",
+    "body": "mb-4",
+    "description": "Bootstrap 5 margin bottom 4"
+  },
+  "Margin Bottom 5": {
+    "prefix": "mb-5",
+    "body": "mb-5",
+    "description": "Bootstrap 5 margin bottom 5"
+  },
+  "Margin End Auto": {
+    "prefix": "me-auto",
+    "body": "me-auto",
+    "description": "Bootstrap 5 margin end auto"
+  },
+  "Margin End 0": {
+    "prefix": "me-0",
+    "body": "me-0",
+    "description": "Bootstrap 5 margin end 0"
+  },
+  "Margin End 1": {
+    "prefix": "me-1",
+    "body": "me-1",
+    "description": "Bootstrap 5 margin end 1"
+  },
+  "Margin End 2": {
+    "prefix": "me-2",
+    "body": "me-2",
+    "description": "Bootstrap 5 margin end 2"
+  },
+  "Margin End 3": {
+    "prefix": "me-3",
+    "body": "me-3",
+    "description": "Bootstrap 5 margin end 3"
+  },
+  "Margin End 4": {
+    "prefix": "me-4",
+    "body": "me-4",
+    "description": "Bootstrap 5 margin end 4"
+  },
+  "Margin End 5": {
+    "prefix": "me-5",
+    "body": "me-5",
+    "description": "Bootstrap 5 margin end 5"
+  },
+  "Margin Start Auto": {
+    "prefix": "ms-auto",
+    "body": "ms-auto",
+    "description": "Bootstrap 5 margin start auto"
+  },
+  "Margin Start 0": {
+    "prefix": "ms-0",
+    "body": "ms-0",
+    "description": "Bootstrap 5 margin start 0"
+  },
+  "Margin Start 1": {
+    "prefix": "ms-1",
+    "body": "ms-1",
+    "description": "Bootstrap 5 margin start 1"
+  },
+  "Margin Start 2": {
+    "prefix": "ms-2",
+    "body": "ms-2",
+    "description": "Bootstrap 5 margin start 2"
+  },
+  "Margin Start 3": {
+    "prefix": "ms-3",
+    "body": "ms-3",
+    "description": "Bootstrap 5 margin start 3"
+  },
+  "Margin Start 4": {
+    "prefix": "ms-4",
+    "body": "ms-4",
+    "description": "Bootstrap 5 margin start 4"
+  },
+  "Margin Start 5": {
+    "prefix": "ms-5",
+    "body": "ms-5",
+    "description": "Bootstrap 5 margin start 5"
+  },
+  "Margin Top Auto": {
+    "prefix": "mt-auto",
+    "body": "mt-auto",
+    "description": "Bootstrap 5 margin top auto"
+  },
+  "Margin Top 0": {
+    "prefix": "mt-0",
+    "body": "mt-0",
+    "description": "Bootstrap 5 margin top 0"
+  },
+  "Margin Top 1": {
+    "prefix": "mt-1",
+    "body": "mt-1",
+    "description": "Bootstrap 5 margin top 1"
+  },
+  "Margin Top 2": {
+    "prefix": "mt-2",
+    "body": "mt-2",
+    "description": "Bootstrap 5 margin top 2"
+  },
+  "Margin Top 3": {
+    "prefix": "mt-3",
+    "body": "mt-3",
+    "description": "Bootstrap 5 margin top 3"
+  },
+  "Margin Top 4": {
+    "prefix": "mt-4",
+    "body": "mt-4",
+    "description": "Bootstrap 5 margin top 4"
+  },
+  "Margin Top 5": {
+    "prefix": "mt-5",
+    "body": "mt-5",
+    "description": "Bootstrap 5 margin top 5"
+  },
+  "Mark": {
+    "prefix": "mark",
+    "body": "mark",
+    "description": "Bootstrap 5 mark (highlight)"
+  },
+  "Max Height 100": {
+    "prefix": "mh-100",
+    "body": "mh-100",
+    "description": "Bootstrap 5 max height 100%"
+  },
+  "Max Width 100": {
+    "prefix": "mw-100",
+    "body": "mw-100",
+    "description": "Bootstrap 5 max width 100%"
+  },
+  "Modal Backdrop": {
+    "prefix": "modal-backdrop",
+    "body": "modal-backdrop",
+    "description": "Bootstrap 5 modal backdrop"
+  },
+  "Modal Body": {
+    "prefix": "modal-body",
+    "body": "modal-body",
+    "description": "Bootstrap 5 modal body"
+  },
+  "Modal Content": {
+    "prefix": "modal-content",
+    "body": "modal-content",
+    "description": "Bootstrap 5 modal content"
+  },
+  "Modal Dialog Centered": {
+    "prefix": "modal-dialog-centered",
+    "body": "modal-dialog modal-dialog-centered",
+    "description": "Bootstrap 5 modal dialog centered"
+  },
+  "Modal Dialog Scrollable": {
+    "prefix": "modal-dialog-scrollable",
+    "body": "modal-dialog modal-dialog-scrollable",
+    "description": "Bootstrap 5 modal dialog scrollable"
+  },
+  "Modal Dialog": {
+    "prefix": "modal-dialog",
+    "body": "modal-dialog",
+    "description": "Bootstrap 5 modal dialog"
+  },
+  "Modal Footer": {
+    "prefix": "modal-footer",
+    "body": "modal-footer",
+    "description": "Bootstrap 5 modal footer"
+  },
+  "Modal Fullscreen": {
+    "prefix": "modal-fullscreen",
+    "body": "modal-fullscreen",
+    "description": "Bootstrap 5 modal fullscreen"
+  },
+  "Modal Header": {
+    "prefix": "modal-header",
+    "body": "modal-header",
+    "description": "Bootstrap 5 modal header"
+  },
+  "Modal Large": {
+    "prefix": "modal-lg",
+    "body": "modal-lg",
+    "description": "Bootstrap 5 modal large"
+  },
+  "Modal Open": {
+    "prefix": "modal-open",
+    "body": "modal-open",
+    "description": "Bootstrap 5 modal open"
+  },
+  "Modal Small": {
+    "prefix": "modal-sm",
+    "body": "modal-sm",
+    "description": "Bootstrap 5 modal small"
+  },
+  "Modal Title": {
+    "prefix": "modal-title",
+    "body": "modal-title",
+    "description": "Bootstrap 5 modal title"
+  },
+  "Modal XL": {
+    "prefix": "modal-xl",
+    "body": "modal-xl",
+    "description": "Bootstrap 5 modal extra large"
+  },
+  "Modal": {
+    "prefix": "modal",
+    "body": "modal",
+    "description": "Bootstrap 5 modal"
+  },
+  "Nav Fill": {
+    "prefix": "nav-fill",
+    "body": "nav nav-fill",
+    "description": "Bootstrap 5 nav fill"
+  },
+  "Nav Item": {
+    "prefix": "nav-item",
+    "body": "nav-item",
+    "description": "Bootstrap 5 nav item"
+  },
+  "Nav Justified": {
+    "prefix": "nav-justified",
+    "body": "nav nav-justified",
+    "description": "Bootstrap 5 nav justified"
+  },
+  "Nav Link Active": {
+    "prefix": "nav-link-active",
+    "body": "nav-link active",
+    "description": "Bootstrap 5 nav link active"
+  },
+  "Nav Link Disabled": {
+    "prefix": "nav-link-disabled",
+    "body": "nav-link disabled",
+    "description": "Bootstrap 5 nav link disabled"
+  },
+  "Nav Link": {
+    "prefix": "nav-link",
+    "body": "nav-link",
+    "description": "Bootstrap 5 nav link"
+  },
+  "Nav Pills": {
+    "prefix": "nav-pills",
+    "body": "nav nav-pills",
+    "description": "Bootstrap 5 nav pills"
+  },
+  "Nav Tabs": {
+    "prefix": "nav-tabs",
+    "body": "nav nav-tabs",
+    "description": "Bootstrap 5 nav tabs"
+  },
+  "Nav Underline": {
+    "prefix": "nav-underline",
+    "body": "nav nav-underline",
+    "description": "Bootstrap 5 nav underline"
+  },
+  "Nav": {
+    "prefix": "nav",
+    "body": "nav",
+    "description": "Bootstrap 5 nav"
+  },
+  "Navbar Brand": {
+    "prefix": "navbar-brand",
+    "body": "navbar-brand",
+    "description": "Bootstrap 5 navbar brand"
+  },
+  "Navbar Collapse": {
+    "prefix": "navbar-collapse",
+    "body": "navbar-collapse",
+    "description": "Bootstrap 5 navbar collapse"
+  },
+  "Navbar Dark": {
+    "prefix": "navbar-dark",
+    "body": "navbar navbar-dark",
+    "description": "Bootstrap 5 dark navbar"
+  },
+  "Navbar Expand LG": {
+    "prefix": "navbar-expand-lg",
+    "body": "navbar navbar-expand-lg",
+    "description": "Bootstrap 5 navbar expand large"
+  },
+  "Navbar Expand MD": {
+    "prefix": "navbar-expand-md",
+    "body": "navbar navbar-expand-md",
+    "description": "Bootstrap 5 navbar expand medium"
+  },
+  "Navbar Expand SM": {
+    "prefix": "navbar-expand-sm",
+    "body": "navbar navbar-expand-sm",
+    "description": "Bootstrap 5 navbar expand small"
+  },
+  "Navbar Expand XL": {
+    "prefix": "navbar-expand-xl",
+    "body": "navbar navbar-expand-xl",
+    "description": "Bootstrap 5 navbar expand extra large"
+  },
+  "Navbar Light": {
+    "prefix": "navbar-light",
+    "body": "navbar navbar-light",
+    "description": "Bootstrap 5 light navbar"
+  },
+  "Navbar Nav": {
+    "prefix": "navbar-nav",
+    "body": "navbar-nav",
+    "description": "Bootstrap 5 navbar nav"
+  },
+  "Navbar Text": {
+    "prefix": "navbar-text",
+    "body": "navbar-text",
+    "description": "Bootstrap 5 navbar text"
+  },
+  "Navbar Toggler Icon": {
+    "prefix": "navbar-toggler-icon",
+    "body": "navbar-toggler-icon",
+    "description": "Bootstrap 5 navbar toggler icon"
+  },
+  "Navbar Toggler": {
+    "prefix": "navbar-toggler",
+    "body": "navbar-toggler",
+    "description": "Bootstrap 5 navbar toggler"
+  },
+  "Navbar": {
+    "prefix": "navbar",
+    "body": "navbar",
+    "description": "Bootstrap 5 navbar"
+  },
+  "Object Fit Contain": {
+    "prefix": "object-fit-contain",
+    "body": "object-fit-contain",
+    "description": "Bootstrap 5 object fit contain"
+  },
+  "Object Fit Cover": {
+    "prefix": "object-fit-cover",
+    "body": "object-fit-cover",
+    "description": "Bootstrap 5 object fit cover"
+  },
+  "Object Fit Fill": {
+    "prefix": "object-fit-fill",
+    "body": "object-fit-fill",
+    "description": "Bootstrap 5 object fit fill"
+  },
+  "Object Fit None": {
+    "prefix": "object-fit-none",
+    "body": "object-fit-none",
+    "description": "Bootstrap 5 object fit none"
+  },
+  "Object Fit Scale": {
+    "prefix": "object-fit-scale",
+    "body": "object-fit-scale",
+    "description": "Bootstrap 5 object fit scale down"
+  },
+  "Offset LG": {
+    "prefix": "offset-lg",
+    "body": "offset-lg",
+    "description": "Bootstrap 5 offset large"
+  },
+  "Offset MD": {
+    "prefix": "offset-md",
+    "body": "offset-md",
+    "description": "Bootstrap 5 offset medium"
+  },
+  "Offset SM": {
+    "prefix": "offset-sm",
+    "body": "offset-sm",
+    "description": "Bootstrap 5 offset small"
+  },
+  "Offset XL": {
+    "prefix": "offset-xl",
+    "body": "offset-xl",
+    "description": "Bootstrap 5 offset extra large"
+  },
+  "Opacity 0": {
+    "prefix": "opacity-0",
+    "body": "opacity-0",
+    "description": "Bootstrap 5 opacity 0%"
+  },
+  "Opacity 25": {
+    "prefix": "opacity-25",
+    "body": "opacity-25",
+    "description": "Bootstrap 5 opacity 25%"
+  },
+  "Opacity 50": {
+    "prefix": "opacity-50",
+    "body": "opacity-50",
+    "description": "Bootstrap 5 opacity 50%"
+  },
+  "Opacity 75": {
+    "prefix": "opacity-75",
+    "body": "opacity-75",
+    "description": "Bootstrap 5 opacity 75%"
+  },
+  "Opacity 100": {
+    "prefix": "opacity-100",
+    "body": "opacity-100",
+    "description": "Bootstrap 5 opacity 100%"
+  },
+  "Order First": {
+    "prefix": "order-first",
+    "body": "order-first",
+    "description": "Bootstrap 5 order first"
+  },
+  "Order Last": {
+    "prefix": "order-last",
+    "body": "order-last",
+    "description": "Bootstrap 5 order last"
+  },
+  "Order": {
+    "prefix": "order",
+    "body": "order",
+    "description": "Bootstrap 5 order"
+  },
+  "Overflow Auto": {
+    "prefix": "overflow-auto",
+    "body": "overflow-auto",
+    "description": "Bootstrap 5 overflow auto"
+  },
+  "Overflow Hidden": {
+    "prefix": "overflow-hidden",
+    "body": "overflow-hidden",
+    "description": "Bootstrap 5 overflow hidden"
+  },
+  "Overflow Scroll": {
+    "prefix": "overflow-scroll",
+    "body": "overflow-scroll",
+    "description": "Bootstrap 5 overflow scroll"
+  },
+  "Overflow Visible": {
+    "prefix": "overflow-visible",
+    "body": "overflow-visible",
+    "description": "Bootstrap 5 overflow visible"
+  },
+  "Padding 0": {
+    "prefix": "p-0",
+    "body": "p-0",
+    "description": "Bootstrap 5 padding 0"
+  },
+  "Padding 1": {
+    "prefix": "p-1",
+    "body": "p-1",
+    "description": "Bootstrap 5 padding 1"
+  },
+  "Padding 2": {
+    "prefix": "p-2",
+    "body": "p-2",
+    "description": "Bootstrap 5 padding 2"
+  },
+  "Padding 3": {
+    "prefix": "p-3",
+    "body": "p-3",
+    "description": "Bootstrap 5 padding 3"
+  },
+  "Padding 4": {
+    "prefix": "p-4",
+    "body": "p-4",
+    "description": "Bootstrap 5 padding 4"
+  },
+  "Padding 5": {
+    "prefix": "p-5",
+    "body": "p-5",
+    "description": "Bootstrap 5 padding 5"
+  },
+  "Page Item": {
+    "prefix": "page-item",
+    "body": "page-item",
+    "description": "Bootstrap 5 page item"
+  },
+  "Page Link": {
+    "prefix": "page-link",
+    "body": "page-link",
+    "description": "Bootstrap 5 page link"
+  },
+  "Pagination Large": {
+    "prefix": "pagination-lg",
+    "body": "pagination pagination-lg",
+    "description": "Bootstrap 5 large pagination"
+  },
+  "Pagination Small": {
+    "prefix": "pagination-sm",
+    "body": "pagination pagination-sm",
+    "description": "Bootstrap 5 small pagination"
+  },
+  "Pagination": {
+    "prefix": "pagination",
+    "body": "pagination",
+    "description": "Bootstrap 5 pagination"
+  },
+  "Placeholder": {
+    "prefix": "placeholder",
+    "body": "placeholder",
+    "description": "Bootstrap 5 placeholder"
+  },
+  "Position Absolute": {
+    "prefix": "position-absolute",
+    "body": "position-absolute",
+    "description": "Bootstrap 5 position absolute"
+  },
+  "Position Fixed": {
+    "prefix": "position-fixed",
+    "body": "position-fixed",
+    "description": "Bootstrap 5 position fixed"
+  },
+  "Position Relative": {
+    "prefix": "position-relative",
+    "body": "position-relative",
+    "description": "Bootstrap 5 position relative"
+  },
+  "Position Static": {
+    "prefix": "position-static",
+    "body": "position-static",
+    "description": "Bootstrap 5 position static"
+  },
+  "Position Sticky": {
+    "prefix": "position-sticky",
+    "body": "position-sticky",
+    "description": "Bootstrap 5 position sticky"
+  },
+  "Progress Bar Animated": {
+    "prefix": "progress-bar-animated",
+    "body": "progress-bar progress-bar-animated",
+    "description": "Bootstrap 5 animated progress bar"
+  },
+  "Progress Bar Striped": {
+    "prefix": "progress-bar-striped",
+    "body": "progress-bar progress-bar-striped",
+    "description": "Bootstrap 5 striped progress bar"
+  },
+  "Progress Bar": {
+    "prefix": "progress-bar",
+    "body": "progress-bar",
+    "description": "Bootstrap 5 progress bar"
+  },
+  "Progress": {
+    "prefix": "progress",
+    "body": "progress",
+    "description": "Bootstrap 5 progress"
+  },
+  "Ratio 1x1": {
+    "prefix": "ratio-1x1",
+    "body": "ratio ratio-1x1",
+    "description": "Bootstrap 5 1x1 aspect ratio"
+  },
+  "Ratio 16x9": {
+    "prefix": "ratio-16x9",
+    "body": "ratio ratio-16x9",
+    "description": "Bootstrap 5 16x9 aspect ratio"
+  },
+  "Ratio 21x9": {
+    "prefix": "ratio-21x9",
+    "body": "ratio ratio-21x9",
+    "description": "Bootstrap 5 21x9 aspect ratio"
+  },
+  "Ratio 4x3": {
+    "prefix": "ratio-4x3",
+    "body": "ratio ratio-4x3",
+    "description": "Bootstrap 5 4x3 aspect ratio"
+  },
+  "Ratio": {
+    "prefix": "ratio",
+    "body": "ratio",
+    "description": "Bootstrap 5 ratio"
+  },
+  "Ring Danger": {
+    "prefix": "ring-danger",
+    "body": "ring ring-danger",
+    "description": "Bootstrap 5 danger ring"
+  },
+  "Ring Primary": {
+    "prefix": "ring-primary",
+    "body": "ring ring-primary",
+    "description": "Bootstrap 5 primary ring"
+  },
+  "Ring": {
+    "prefix": "ring",
+    "body": "ring",
+    "description": "Bootstrap 5 ring"
+  },
+  "Rounded 0": {
+    "prefix": "rounded-0",
+    "body": "rounded-0",
+    "description": "Bootstrap 5 no rounded corners"
+  },
+  "Rounded 1": {
+    "prefix": "rounded-1",
+    "body": "rounded-1",
+    "description": "Bootstrap 5 small rounded corners"
+  },
+  "Rounded 2": {
+    "prefix": "rounded-2",
+    "body": "rounded-2",
+    "description": "Bootstrap 5 regular rounded corners"
+  },
+  "Rounded 3": {
+    "prefix": "rounded-3",
+    "body": "rounded-3",
+    "description": "Bootstrap 5 large rounded corners"
+  },
+  "Rounded Bottom": {
+    "prefix": "rounded-bottom",
+    "body": "rounded-bottom",
+    "description": "Bootstrap 5 rounded bottom"
+  },
+  "Rounded Circle": {
+    "prefix": "rounded-circle",
+    "body": "rounded-circle",
+    "description": "Bootstrap 5 rounded circle"
+  },
+  "Rounded End": {
+    "prefix": "rounded-end",
+    "body": "rounded-end",
+    "description": "Bootstrap 5 rounded end"
+  },
+  "Rounded Pill": {
+    "prefix": "rounded-pill",
+    "body": "rounded-pill",
+    "description": "Bootstrap 5 rounded pill"
+  },
+  "Rounded Start": {
+    "prefix": "rounded-start",
+    "body": "rounded-start",
+    "description": "Bootstrap 5 rounded start"
+  },
+  "Rounded Top": {
+    "prefix": "rounded-top",
+    "body": "rounded-top",
+    "description": "Bootstrap 5 rounded top"
+  },
+  "Rounded": {
+    "prefix": "rounded",
+    "body": "rounded",
+    "description": "Bootstrap 5 rounded corners"
+  },
+  "Row Cols Auto": {
+    "prefix": "row-cols-auto",
+    "body": "row row-cols-auto",
+    "description": "Bootstrap 5 row cols auto"
+  },
+  "Row Cols LG": {
+    "prefix": "row-cols-lg",
+    "body": "row row-cols-lg",
+    "description": "Bootstrap 5 row cols large"
+  },
+  "Row Cols MD": {
+    "prefix": "row-cols-md",
+    "body": "row row-cols-md",
+    "description": "Bootstrap 5 row cols medium"
+  },
+  "Row Cols SM": {
+    "prefix": "row-cols-sm",
+    "body": "row row-cols-sm",
+    "description": "Bootstrap 5 row cols small"
+  },
+  "Row Cols XL": {
+    "prefix": "row-cols-xl",
+    "body": "row row-cols-xl",
+    "description": "Bootstrap 5 row cols extra large"
+  },
+  "Row": {
+    "prefix": "row",
+    "body": "row",
+    "description": "Bootstrap 5 row"
+  },
+  "Shadow LG": {
+    "prefix": "shadow-lg",
+    "body": "shadow-lg",
+    "description": "Bootstrap 5 large shadow"
+  },
+  "Shadow None": {
+    "prefix": "shadow-none",
+    "body": "shadow-none",
+    "description": "Bootstrap 5 no shadow"
+  },
+  "Shadow SM": {
+    "prefix": "shadow-sm",
+    "body": "shadow-sm",
+    "description": "Bootstrap 5 small shadow"
+  },
+  "Shadow": {
+    "prefix": "shadow",
+    "body": "shadow",
+    "description": "Bootstrap 5 shadow"
+  },
+  "Small": {
+    "prefix": "small",
+    "body": "small",
+    "description": "Bootstrap 5 small text"
+  },
+  "Spinner Border LG": {
+    "prefix": "spinner-border-lg",
+    "body": "spinner-border spinner-border-lg",
+    "description": "Bootstrap 5 large border spinner"
+  },
+  "Spinner Border SM": {
+    "prefix": "spinner-border-sm",
+    "body": "spinner-border spinner-border-sm",
+    "description": "Bootstrap 5 small border spinner"
+  },
+  "Spinner Border": {
+    "prefix": "spinner-border",
+    "body": "spinner-border",
+    "description": "Bootstrap 5 border spinner"
+  },
+  "Spinner Grow LG": {
+    "prefix": "spinner-grow-lg",
+    "body": "spinner-grow spinner-grow-lg",
+    "description": "Bootstrap 5 large grow spinner"
+  },
+  "Spinner Grow SM": {
+    "prefix": "spinner-grow-sm",
+    "body": "spinner-grow spinner-grow-sm",
+    "description": "Bootstrap 5 small grow spinner"
+  },
+  "Spinner Grow": {
+    "prefix": "spinner-grow",
+    "body": "spinner-grow",
+    "description": "Bootstrap 5 grow spinner"
+  },
+  "Sticky Bottom": {
+    "prefix": "sticky-bottom",
+    "body": "sticky-bottom",
+    "description": "Bootstrap 5 sticky bottom"
+  },
+  "Sticky LG Top": {
+    "prefix": "sticky-lg-top",
+    "body": "sticky-lg-top",
+    "description": "Bootstrap 5 sticky large top"
+  },
+  "Sticky MD Top": {
+    "prefix": "sticky-md-top",
+    "body": "sticky-md-top",
+    "description": "Bootstrap 5 sticky medium top"
+  },
+  "Sticky SM Top": {
+    "prefix": "sticky-sm-top",
+    "body": "sticky-sm-top",
+    "description": "Bootstrap 5 sticky small top"
+  },
+  "Sticky Top": {
+    "prefix": "sticky-top",
+    "body": "sticky-top",
+    "description": "Bootstrap 5 sticky top"
+  },
+  "Stretched Link": {
+    "prefix": "stretched-link",
+    "body": "stretched-link",
+    "description": "Bootstrap 5 stretched link"
+  },
+  "Start 0": {
+    "prefix": "start-0",
+    "body": "start-0",
+    "description": "Bootstrap 5 start 0"
+  },
+  "Start 50": {
+    "prefix": "start-50",
+    "body": "start-50",
+    "description": "Bootstrap 5 start 50%"
+  },
+  "Start 100": {
+    "prefix": "start-100",
+    "body": "start-100",
+    "description": "Bootstrap 5 start 100%"
+  },
+  "Table Active": {
+    "prefix": "table-active",
+    "body": "table-active",
+    "description": "Bootstrap 5 table active"
+  },
+  "Table Bordered": {
+    "prefix": "table-bordered",
+    "body": "table table-bordered",
+    "description": "Bootstrap 5 bordered table"
+  },
+  "Table Borderless": {
+    "prefix": "table-borderless",
+    "body": "table table-borderless",
+    "description": "Bootstrap 5 borderless table"
+  },
+  "Table Danger": {
+    "prefix": "table-danger",
+    "body": "table-danger",
+    "description": "Bootstrap 5 table danger"
+  },
+  "Table Dark": {
+    "prefix": "table-dark",
+    "body": "table table-dark",
+    "description": "Bootstrap 5 dark table"
+  },
+  "Table Group Column": {
+    "prefix": "table-group-column",
+    "body": "table-group-column",
+    "description": "Bootstrap 5 table group column"
+  },
+  "Table Hover": {
+    "prefix": "table-hover",
+    "body": "table table-hover",
+    "description": "Bootstrap 5 hoverable table"
+  },
+  "Table Info": {
+    "prefix": "table-info",
+    "body": "table-info",
+    "description": "Bootstrap 5 table info"
+  },
+  "Table Light": {
+    "prefix": "table-light",
+    "body": "table-light",
+    "description": "Bootstrap 5 table light"
+  },
+  "Table Primary": {
+    "prefix": "table-primary",
+    "body": "table-primary",
+    "description": "Bootstrap 5 table primary"
+  },
+  "Table Responsive LG": {
+    "prefix": "table-responsive-lg",
+    "body": "table-responsive-lg",
+    "description": "Bootstrap 5 large responsive table"
+  },
+  "Table Responsive MD": {
+    "prefix": "table-responsive-md",
+    "body": "table-responsive-md",
+    "description": "Bootstrap 5 medium responsive table"
+  },
+  "Table Responsive SM": {
+    "prefix": "table-responsive-sm",
+    "body": "table-responsive-sm",
+    "description": "Bootstrap 5 small responsive table"
+  },
+  "Table Responsive XL": {
+    "prefix": "table-responsive-xl",
+    "body": "table-responsive-xl",
+    "description": "Bootstrap 5 extra large responsive table"
+  },
+  "Table Responsive": {
+    "prefix": "table-responsive",
+    "body": "table-responsive",
+    "description": "Bootstrap 5 responsive table"
+  },
+  "Table Secondary": {
+    "prefix": "table-secondary",
+    "body": "table-secondary",
+    "description": "Bootstrap 5 table secondary"
+  },
+  "Table Small": {
+    "prefix": "table-sm",
+    "body": "table table-sm",
+    "description": "Bootstrap 5 small table"
+  },
+  "Table Striped Columns": {
+    "prefix": "table-striped-columns",
+    "body": "table table-striped-columns",
+    "description": "Bootstrap 5 striped columns table"
+  },
+  "Table Striped": {
+    "prefix": "table-striped",
+    "body": "table table-striped",
+    "description": "Bootstrap 5 striped table"
+  },
+  "Table Success": {
+    "prefix": "table-success",
+    "body": "table-success",
+    "description": "Bootstrap 5 table success"
+  },
+  "Table Warning": {
+    "prefix": "table-warning",
+    "body": "table-warning",
+    "description": "Bootstrap 5 table warning"
+  },
+  "Table": {
+    "prefix": "table",
+    "body": "table",
+    "description": "Bootstrap 5 table"
+  },
+  "Text Black 50": {
+    "prefix": "text-black-50",
+    "body": "text-black-50",
+    "description": "Bootstrap 5 text black 50%"
+  },
+  "Text Body": {
+    "prefix": "text-body",
+    "body": "text-body",
+    "description": "Bootstrap 5 text body"
+  },
+  "Text Break": {
+    "prefix": "text-break",
+    "body": "text-break",
+    "description": "Bootstrap 5 text break"
+  },
+  "Text Capitalize": {
+    "prefix": "text-capitalize",
+    "body": "text-capitalize",
+    "description": "Bootstrap 5 text capitalize"
+  },
+  "Text Center": {
+    "prefix": "text-center",
+    "body": "text-center",
+    "description": "Bootstrap 5 text center"
+  },
+  "Text Danger": {
+    "prefix": "text-danger",
+    "body": "text-danger",
+    "description": "Bootstrap 5 text danger"
+  },
+  "Text Dark": {
+    "prefix": "text-dark",
+    "body": "text-dark",
+    "description": "Bootstrap 5 text dark"
+  },
+  "Text Decoration Line Through": {
+    "prefix": "text-decoration-line-through",
+    "body": "text-decoration-line-through",
+    "description": "Bootstrap 5 text line through"
+  },
+  "Text Decoration None": {
+    "prefix": "text-decoration-none",
+    "body": "text-decoration-none",
+    "description": "Bootstrap 5 text no decoration"
+  },
+  "Text Decoration Underline": {
+    "prefix": "text-decoration-underline",
+    "body": "text-decoration-underline",
+    "description": "Bootstrap 5 text underline"
+  },
+  "Text End": {
+    "prefix": "text-end",
+    "body": "text-end",
+    "description": "Bootstrap 5 text end (right)"
+  },
+  "Text Hide": {
+    "prefix": "text-hide",
+    "body": "visually-hidden",
+    "description": "Bootstrap 5 text hide (visually hidden)"
+  },
+  "Text Info": {
+    "prefix": "text-info",
+    "body": "text-info",
+    "description": "Bootstrap 5 text info"
+  },
+  "Text Justify": {
+    "prefix": "text-justify",
+    "body": "text-justify",
+    "description": "Bootstrap 5 text justify"
+  },
+  "Text LG Center": {
+    "prefix": "text-lg-center",
+    "body": "text-lg-center",
+    "description": "Bootstrap 5 text large center"
+  },
+  "Text LG End": {
+    "prefix": "text-lg-end",
+    "body": "text-lg-end",
+    "description": "Bootstrap 5 text large end"
+  },
+  "Text LG Start": {
+    "prefix": "text-lg-start",
+    "body": "text-lg-start",
+    "description": "Bootstrap 5 text large start"
+  },
+  "Text Light": {
+    "prefix": "text-light",
+    "body": "text-light",
+    "description": "Bootstrap 5 text light"
+  },
+  "Text Lowercase": {
+    "prefix": "text-lowercase",
+    "body": "text-lowercase",
+    "description": "Bootstrap 5 text lowercase"
+  },
+  "Text MD Center": {
+    "prefix": "text-md-center",
+    "body": "text-md-center",
+    "description": "Bootstrap 5 text medium center"
+  },
+  "Text MD End": {
+    "prefix": "text-md-end",
+    "body": "text-md-end",
+    "description": "Bootstrap 5 text medium end"
+  },
+  "Text MD Start": {
+    "prefix": "text-md-start",
+    "body": "text-md-start",
+    "description": "Bootstrap 5 text medium start"
+  },
+  "Text Muted": {
+    "prefix": "text-muted",
+    "body": "text-muted",
+    "description": "Bootstrap 5 text muted"
+  },
+  "Text Nowrap": {
+    "prefix": "text-nowrap",
+    "body": "text-nowrap",
+    "description": "Bootstrap 5 text nowrap"
+  },
+  "Text Primary": {
+    "prefix": "text-primary",
+    "body": "text-primary",
+    "description": "Bootstrap 5 text primary"
+  },
+  "Text Reset": {
+    "prefix": "text-reset",
+    "body": "text-reset text-decoration-none",
+    "description": "Bootstrap 5 text reset link"
+  },
+  "Text Secondary": {
+    "prefix": "text-secondary",
+    "body": "text-secondary",
+    "description": "Bootstrap 5 text secondary"
+  },
+  "Text SM Center": {
+    "prefix": "text-sm-center",
+    "body": "text-sm-center",
+    "description": "Bootstrap 5 text small center"
+  },
+  "Text SM End": {
+    "prefix": "text-sm-end",
+    "body": "text-sm-end",
+    "description": "Bootstrap 5 text small end"
+  },
+  "Text SM Start": {
+    "prefix": "text-sm-start",
+    "body": "text-sm-start",
+    "description": "Bootstrap 5 text small start"
+  },
+  "Text Start": {
+    "prefix": "text-start",
+    "body": "text-start",
+    "description": "Bootstrap 5 text start (left)"
+  },
+  "Text Success": {
+    "prefix": "text-success",
+    "body": "text-success",
+    "description": "Bootstrap 5 text success"
+  },
+  "Text Truncate": {
+    "prefix": "text-truncate",
+    "body": "text-truncate",
+    "description": "Bootstrap 5 text truncate"
+  },
+  "Text Uppercase": {
+    "prefix": "text-uppercase",
+    "body": "text-uppercase",
+    "description": "Bootstrap 5 text uppercase"
+  },
+  "Text Warning": {
+    "prefix": "text-warning",
+    "body": "text-warning",
+    "description": "Bootstrap 5 text warning"
+  },
+  "Text White 50": {
+    "prefix": "text-white-50",
+    "body": "text-white-50",
+    "description": "Bootstrap 5 text white 50%"
+  },
+  "Text White": {
+    "prefix": "text-white",
+    "body": "text-white",
+    "description": "Bootstrap 5 text white"
+  },
+  "Text XL Center": {
+    "prefix": "text-xl-center",
+    "body": "text-xl-center",
+    "description": "Bootstrap 5 text extra large center"
+  },
+  "Text XL End": {
+    "prefix": "text-xl-end",
+    "body": "text-xl-end",
+    "description": "Bootstrap 5 text extra large end"
+  },
+  "Text XL Start": {
+    "prefix": "text-xl-start",
+    "body": "text-xl-start",
+    "description": "Bootstrap 5 text extra large start"
+  },
+  "Toast Body": {
+    "prefix": "toast-body",
+    "body": "toast-body",
+    "description": "Bootstrap 5 toast body"
+  },
+  "Toast Header": {
+    "prefix": "toast-header",
+    "body": "toast-header",
+    "description": "Bootstrap 5 toast header"
+  },
+  "Toast": {
+    "prefix": "toast",
+    "body": "toast",
+    "description": "Bootstrap 5 toast"
+  },
+  "Top 0": {
+    "prefix": "top-0",
+    "body": "top-0",
+    "description": "Bootstrap 5 top 0"
+  },
+  "Top 50": {
+    "prefix": "top-50",
+    "body": "top-50",
+    "description": "Bootstrap 5 top 50%"
+  },
+  "Top 100": {
+    "prefix": "top-100",
+    "body": "top-100",
+    "description": "Bootstrap 5 top 100%"
+  },
+  "Translate Middle": {
+    "prefix": "translate-middle",
+    "body": "translate-middle",
+    "description": "Bootstrap 5 translate middle"
+  },
+  "Translate Middle X": {
+    "prefix": "translate-middle-x",
+    "body": "translate-middle-x",
+    "description": "Bootstrap 5 translate middle X"
+  },
+  "Translate Middle Y": {
+    "prefix": "translate-middle-y",
+    "body": "translate-middle-y",
+    "description": "Bootstrap 5 translate middle Y"
+  },
+  "User Select All": {
+    "prefix": "user-select-all",
+    "body": "user-select-all",
+    "description": "Bootstrap 5 user select all"
+  },
+  "User Select Auto": {
+    "prefix": "user-select-auto",
+    "body": "user-select-auto",
+    "description": "Bootstrap 5 user select auto"
+  },
+  "User Select None": {
+    "prefix": "user-select-none",
+    "body": "user-select-none",
+    "description": "Bootstrap 5 user select none"
+  },
+  "Valid Feedback": {
+    "prefix": "valid-feedback",
+    "body": "valid-feedback",
+    "description": "Bootstrap 5 valid feedback"
+  },
+  "Valid Tooltip": {
+    "prefix": "valid-tooltip",
+    "body": "valid-tooltip",
+    "description": "Bootstrap 5 valid tooltip"
+  },
+  "Visible": {
+    "prefix": "visible",
+    "body": "visible",
+    "description": "Bootstrap 5 visible"
+  },
+  "Vr": {
+    "prefix": "vr",
+    "body": "vr",
+    "description": "Bootstrap 5 vertical rule"
+  },
+  "W 100": {
+    "prefix": "w-100",
+    "body": "w-100",
+    "description": "Bootstrap 5 width 100%"
+  },
+  "W 25": {
+    "prefix": "w-25",
+    "body": "w-25",
+    "description": "Bootstrap 5 width 25%"
+  },
+  "W 50": {
+    "prefix": "w-50",
+    "body": "w-50",
+    "description": "Bootstrap 5 width 50%"
+  },
+  "W 75": {
+    "prefix": "w-75",
+    "body": "w-75",
+    "description": "Bootstrap 5 width 75%"
+  },
+  "W Auto": {
+    "prefix": "w-auto",
+    "body": "w-auto",
+    "description": "Bootstrap 5 width auto"
+  }
+}

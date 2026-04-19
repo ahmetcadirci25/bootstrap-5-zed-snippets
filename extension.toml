@@ -1,0 +1,8 @@
+id = "bootstrap-5-snippets"
+name = "Bootstrap 5 Snippets"
+description = "Autocomplete snippets for Bootstrap 5 utility classes and components"
+version = "1.0.0"
+schema_version = 1
+authors = ["Ahmet Çadırcı <info@ahmetcadirci.com>"]
+repository = "https://github.com/yourusername/bootstrap-5-zed-snippets"
+snippets = "./snippets/html.json"
